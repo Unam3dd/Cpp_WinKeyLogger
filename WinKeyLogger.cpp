@@ -1,3 +1,4 @@
+// Compilation Command : g++ prog.cpp -std=c++11 -o Winkey.exe
 #include <iostream>
 #include <fstream>
 #include <Windows.h>
