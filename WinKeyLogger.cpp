@@ -65,7 +65,7 @@ int keylistener(int key) {
 		return 0;
 	
 	case VK_CAPITAL:
-		cout << "";
+		cout << CAPITAL_TEXT;
 		WriteLog(FILENAME_LOG,CAPITAL_TEXT);
 		return 0;
 
